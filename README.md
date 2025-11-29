@@ -33,11 +33,24 @@ I'm a passionate IT professional with a strong background in operations manageme
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Stats with cache-busting -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true&v=1" alt="GitHub Stats" />
+  
+  <br/>
+  
+  <!-- Alternative GitHub Stats for reliability -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalpa933&theme=radical" alt="GitHub Profile Summary" />
+  
+  <br/>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical&v=1" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical&v=1" alt="GitHub Streak" />
+  </div>
+  
+  <!-- GitHub Trophy -->
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&v=1" alt="GitHub Trophies" />
 </div>
 
 ---
