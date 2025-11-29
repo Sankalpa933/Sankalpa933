@@ -23,10 +23,19 @@
   </p>
   
   <!-- GitHub Stats -->
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical" />
-  </p>
+  <div align="center">
+    <a href="https://github.com/Sankalpa933">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" />
+    </a>
+  </div>
+  
+  <!-- GitHub Streak -->
+  <div align="center">
+    <a href="https://github.com/Sankalpa933">
+      <img src="https://streak-stats.demolab.com?user=Sankalpa933&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -152,18 +161,8 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
   </a>
   
   <!-- WhatsApp -->
-  <a href="https://wa.me/1234567890" target="_blank">
+  <a href="https://wa.me/94762503443" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=black" />
-  </a>
-  
-  <!-- Discord -->
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=for-the-badge&labelColor=black" />
-  </a>
-  
-  <!-- Twitter -->
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge&labelColor=black" />
   </a>
 </div>
 
@@ -182,11 +181,18 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
 </p>
 
 <!-- Footer -->
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin: 20px 0;">
   <p>✨ Crafted with ❤️ and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Inspired by the future ✨</p>
   
-  <!-- GitHub Activity Graph -->
+  <!-- GitHub Trophy -->
   <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sankalpa933&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="80%" alt="GitHub Activity Graph" />
+    <a href="https://github.com/Sankalpa933">
+      <img src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+    </a>
   </div>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" alt="Profile Views" />
 </div>
