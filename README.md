@@ -182,26 +182,11 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
 </p>
 
 <!-- Footer -->
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <p>✨ Crafted with ❤️ and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Inspired by the future ✨</p>
   
-  <!-- GitHub Activity -->
+  <!-- GitHub Activity Graph -->
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa933&theme=react-dark&bg_color=0D1117&hide_border=true" width="80%" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sankalpa933&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="80%" alt="GitHub Activity Graph" />
   </div>
-  
-  <!-- GitHub Snake Animation -->
-  <div align="center">
-    <img src="https://github.com/Sankalpa933/Sankalpa933/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </div>
-  
-  <!-- Random Joke -->
-  <div align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-  </div>
-</div>
-
-<!-- Visitor counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sankalpa933/count.svg" alt="Visitor Count" />
 </div>
