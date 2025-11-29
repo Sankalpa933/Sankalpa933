@@ -1,8 +1,3 @@
-<div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=220&section=header&text=Sankalpa%20Fernando&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Senior%20Executive%20%7C%20IT%20Undergraduate&descSize=22&descAlignY=65" />
-</div>
-
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=200&section=header&text=Sankalpa%20Fernando&fontSize=42&fontAlignY=40&desc=Senior%20Executive%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=60" />
@@ -39,7 +34,7 @@ I love building systems that are:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" height="165" />
+![Sankalpa’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sankalpa933)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 
 <br><br>
