@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- ================= HEADER / BANNER ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/cyber-neon-banner.gif" alt="Cyber Neon Banner" width="100%">
+</p>
 
-<!--
-**Sankalpa933/Sankalpa933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚡ Vishma Gimhan Sankalpa Fernando</h1>
+<h3 align="center">Senior Executive Operations | IT Undergraduate | Systems & Web Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/line-neon.gif" width="100%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ================= INTRODUCTION ================= -->
+### 👋 Hey, I'm Sankalpa — passionate about systems design, operations, and building modern digital experiences.
+
+- 🔭 **Currently working on:** Hotel Reservation System (Special Events)  
+- 🌱 **Learning:** React | Node.js | Network Infrastructure | SQL Server  
+- 🎯 **Goal:** Become a modern Systems Engineer / Tech Lead  
+- 🧠 **Interests:** Automation, event tech, network design, and UI/UX workflows  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/line-neon.gif" width="100%">
+</p>
+
+<!-- ================= TECH STACK ================= -->
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/line-neon.gif" width="100%">
+</p>
+
+<!-- ================= GITHUB STATS ================= -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical" alt="Sankalpa's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/line-neon.gif" width="100%">
+</p>
+
+<!-- ================= FEATURED PROJECTS ================= -->
+### 🔮 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| ⚡ **Hotel Reservation System** | Web app for booking special event reservations | React, Node.js, MySQL |
+| 🛰 **Inventory Management System** | Java Swing desktop system with JDBC | Java, SQL |
+| ☕ **Modern Café Network Infra** | Full network infrastructure design | Cisco Packet Tracer |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/line-neon.gif" width="100%">
+</p>
+
+<!-- ================= CONTACT ================= -->
+### 📫 Connect With Me
+- ✉️ Email: **sankalpa933@gmail.com**  
+- 🔗 LinkedIn: [Your LinkedIn Link Here]  
+- 🌐 Portfolio: [Your Portfolio Link Here]  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sankalpa933/Sankalpa933/main/line-neon.gif" width="100%">
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">✨ Crafted with passion | Inspired by the future ✨</p>
