@@ -74,41 +74,36 @@ I'm a passionate IT professional with a strong background in operations manageme
 
 ## 🎮 Would You Rather? (Fun Game!)
 
-Let's play a quick game! Click the button below to get a random "Would You Rather" question:
+Here's a fun "Would You Rather" question for you! Refresh the page to see a new one! 🔄
 
-```html
 <details>
-<summary>🎲 Click here to play!</summary>
+<summary>🤔 Click to reveal today's question!</summary>
 
 ### Would you rather...
 
-<div id="wyr-question" style="padding: 10px; margin: 10px 0; border-radius: 5px; background: #2d2d2d; min-height: 50px; display: flex; align-items: center; justify-content: center; text-align: center;">
-  Click the button below for a question!
-</div>
+🔹 Have the ability to fly but only 1 foot off the ground, or be able to breathe underwater but only in swimming pools?
 
-<button onclick="newWYR()" style="padding: 8px 16px; background: #6e5494; color: white; border: none; border-radius: 5px; cursor: pointer; margin: 5px;">Get New Question</button>
+🔹 Be able to talk to animals but they understand you're mocking them, or speak all human languages but only in a silly accent?
 
-<script>
-const questions = [
-  "Have the ability to fly but only 1 foot off the ground, or be able to breathe underwater but only in swimming pools?",
-  "Be able to talk to animals but they understand you're mocking them, or speak all human languages but only in a silly accent?",
-  "Have unlimited battery life on all your devices, or have free WiFi wherever you go?",
-  "Be a famous singer who can't sing, or a famous actor who always forgets their lines?",
-  "Have a pause button for life, but it only works when you're sleeping, or a rewind button that only goes back 30 seconds?",
-  "Be able to read minds but only when people are thinking about food, or be able to become invisible but only when no one is looking at you?",
-  "Have a personal chef who only cooks food you dislike, or a personal trainer who only speaks in rhymes?",
-  "Have to end every conversation with 'I'm a banana', or start every conversation with 'According to my calculations...'?",
-  "Be able to control the weather but only when it's already raining, or control time but only on Tuesdays?",
-  "Have a rewind button for your life, but it only works on Tuesdays, or a pause button that only works when you're in traffic?"
-];
+🔹 Have unlimited battery life on all your devices, or have free WiFi wherever you go?
 
-function newWYR() {
-  const randomQuestion = questions[Math.floor(Math.random() * questions.length)];
-  document.getElementById('wyr-question').innerHTML = `🤔 <strong>${randomQuestion}</strong> 🤔`;
-}
-</script>
+🔹 Be a famous singer who can't sing, or a famous actor who always forgets their lines?
+
+🔹 Have a pause button for life, but it only works when you're sleeping, or a rewind button that only goes back 30 seconds?
+
+🔹 Be able to read minds but only when people are thinking about food, or be able to become invisible but only when no one is looking at you?
+
+🔹 Have a personal chef who only cooks food you dislike, or a personal trainer who only speaks in rhymes?
+
+🔹 Have to end every conversation with 'I'm a banana', or start every conversation with 'According to my calculations...'?
+
+🔹 Be able to control the weather but only when it's already raining, or control time but only on Tuesdays?
+
+🔹 Have a rewind button for your life, but it only works on Tuesdays, or a pause button that only works when you're in traffic?
+
 </details>
-```
+
+*Refresh the page to see a different question!*
 
 ---
 
