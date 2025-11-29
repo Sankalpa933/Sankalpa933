@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Guess The Number</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    color: white;
+  }
+  .game-box {
+    margin: 40px auto;
+    padding: 25px;
+    width: 85%;
+    max-width: 350px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 15px;
+    backdrop-filter: blur(8px);
+  }
+  input {
+    padding: 10px;
+    width: 80%;
+    border: none;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-size: 18px;
+  }
+  button {
+    margin-top: 15px;
+    padding: 10px 25px;
+    background: #00eaff;
+    color: #000;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  button:hover {
+    background: #00bcd4;
+  }
+  .message {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<h2>🎮 Guess The Number</h2>
+<p>I am thinking of a number between <b>1 and 10</b>.</p>
+
+<div class="game-box">
+  <input type="number" id="guess" placeholder="Enter your guess" min="1" max="10">
+  <br>
+  <button onclick="play()">Submit</button>
+  <div class="message" id="message"></div>
+</div>
+
+<script>
+  let number = Math.floor(Math.random() * 10) + 1;
+
+  function play() {
+    let guess = document.getElementById('guess').value;
+    let msg = document.getElementById('message');
+
+    if (!guess) {
+      msg.innerHTML = "⚠️ Enter a number!";
+      return;
+    }
+
+    if (guess == number) {
+      msg.innerHTML = "🎉 Correct! The number was " + number;
+      number = Math.floor(Math.random() * 10) + 1;
+    } else if (guess > number) {
+      msg.innerHTML = "📉 Too high! Try again.";
+    } else {
+      msg.innerHTML = "📈 Too low! Try again.";
+    }
+  }
+</script>
+
+</body>
+</html>
