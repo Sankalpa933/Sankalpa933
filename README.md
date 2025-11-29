@@ -1,14 +1,31 @@
-<!-- ================= HEADER / ANIMATED BANNER ================= -->
-<p align="center">
-  <img src="https://media.tenor.com/tZIod6MQ2KEAAAAd/cyberpunk-neon.gif" alt="Cyber Neon Banner" width="100%">
-</p>
-
-<h1 align="center">⚡ Vishma Gimhan Sankalpa Fernando</h1>
-<h3 align="center">Senior Executive Operations | IT Undergraduate | Systems & Web Developer</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
-</p>
+<!-- ================= ANIMATED HEADER ================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Sankalpa+Fernando;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+  
+  <h3 align="center" style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Executive+Operations+%7C+IT+Undergraduate+%7C+Systems+%26+Web+Developer" alt="Subtitle" />
+  </h3>
+  
+  <!-- Animated divider -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
+  
+  <!-- Animated tech icons -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux,html,css,aws,azure,firebase,mongodb,postgres,redis,postman,androidstudio,atom,bash,bootstrap,c,cpp,codepen,discord,docker,eclipse,express,flutter,gcp,gitlab,gradle,heroku,idea,jquery,kubernetes,linkedin,md,materialui,netlify,nginx,nodejs,php,postman,powershell,pug,python,raspberrypi,react,redux,sass,stackoverflow,tailwind,threejs,ts,unity,vscode,webpack,wordpress,yarn" />
+  </div>
+  
+  <!-- Visitor counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sankalpa933&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalpa933" />
+  </p>
+  
+  <!-- GitHub streak stats -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Sankalpa933&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </p>
+</div>
 
 ---
 
@@ -40,19 +57,65 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux" />
-</p>
+
+<div align="center">
+  <h3>Languages and Tools</h3>
+  
+  <!-- Main Tech Stack -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </div>
+  
+  <!-- Additional Skills -->
+  <h4>Additional Skills</h4>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  </div>
+  
+  <!-- Learning -->
+  <h4>Currently Learning</h4>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  </div>
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <a href="https://github.com/Sankalpa933">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/Sankalpa933">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/Sankalpa933">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/Sankalpa933">
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
@@ -69,23 +132,84 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
 ---
 
 ### 📫 Connect With Me
-<p align="center">
+
+<div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sankalpa-fernando/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=black" />
   </a>
-  <a href="https://sankalpa933.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=firefox&logoColor=orange" />
-  </a>
-  <a href="mailto:sankalpa933@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
+  <!-- GitHub -->
   <a href="https://github.com/Sankalpa933" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge&labelColor=black" />
   </a>
-</p>
+  
+  <!-- Portfolio -->
+  <a href="https://sankalpa933.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&style=for-the-badge&labelColor=black" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:sankalpa933@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&labelColor=black" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=for-the-badge&labelColor=black" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=black" />
+  </a>
+  
+  <!-- Discord -->
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=for-the-badge&labelColor=black" />
+  </a>
+  
+  <!-- Twitter -->
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge&labelColor=black" />
+  </a>
+</div>
+
+<!-- Social Media Counter -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/Sankalpa933?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sankalpa933?label=Follow%20%40Sankalpa933&style=social" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=yourusername">
+    <img src="https://img.shields.io/twitter/follow/yourusername?style=social" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
 </p>
 
-<p align="center">✨ Crafted with passion | Inspired by the future ✨</p>
+<!-- Footer -->
+<div align="center">
+  <p>✨ Crafted with ❤️ and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Inspired by the future ✨</p>
+  
+  <!-- GitHub Activity -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalpa933&theme=react-dark&bg_color=0D1117&hide_border=true" width="80%" />
+  </div>
+  
+  <!-- GitHub Snake Animation -->
+  <div align="center">
+    <img src="https://github.com/Sankalpa933/Sankalpa933/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </div>
+  
+  <!-- Random Joke -->
+  <div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  </div>
+</div>
+
+<!-- Visitor counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sankalpa933/count.svg" alt="Visitor Count" />
+</div>
