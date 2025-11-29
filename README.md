@@ -56,23 +56,6 @@ I’m passionate about building systems that are **clean, scalable, and future-r
 
 ---
 
-# 🎮 Play My Interactive Number Game  
-### *(Real game — not a spoiler — interactive UI!)*
-
-### 👉 Try your luck here:
-
-<div align="center">
-
-⚡ **Loading game…**  
-If nothing loads, open the full game here:  
-🔗 https://Sankalpa933.github.io/game/
-
-<iframe src="https://Sankalpa933.github.io/game/" width="350" height="500" frameborder="0"></iframe>
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" />
 </div>
