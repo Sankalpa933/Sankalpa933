@@ -1,13 +1,13 @@
-<!-- ================= HEADER / ANIMATED BANNER ================= -->
+<!-- ================= HEADER / BANNER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Cyber Neon Banner" width="100%">
+  <img src="https://media.tenor.com/qD-2Yq0F2KAAAAAC/cyberpunk-neon.gif" alt="Cyber Neon Banner" width="100%">
 </p>
 
 <h1 align="center">⚡ Vishma Gimhan Sankalpa Fernando</h1>
 <h3 align="center">Senior Executive Operations | IT Undergraduate | Systems & Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifmKj3B3i5K/giphy.gif" width="100%">
+  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
 </p>
 
 <!-- ================= INTRODUCTION ================= -->
@@ -19,7 +19,7 @@
 - 🧠 **Interests:** Automation, event tech, network design, UI/UX workflows  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifmKj3B3i5K/giphy.gif" width="100%">
+  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
 </p>
 
 <!-- ================= TECH STACK ================= -->
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifmKj3B3i5K/giphy.gif" width="100%">
+  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
 </p>
 
 <!-- ================= GITHUB STATS ================= -->
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifmKj3B3i5K/giphy.gif" width="100%">
+  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
 </p>
 
 <!-- ================= FEATURED PROJECTS ================= -->
@@ -53,7 +53,7 @@
 | ☕ **Modern Café Network Infra** | Full network infrastructure design | Cisco Packet Tracer |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifmKj3B3i5K/giphy.gif" width="100%">
+  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
 </p>
 
 <!-- ================= CONTACT ================= -->
@@ -63,7 +63,7 @@
 - 🌐 Portfolio: [Your Portfolio Link Here]  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcifmKj3B3i5K/giphy.gif" width="100%">
+  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
 </p>
 
 <!-- ================= FOOTER ================= -->
