@@ -1,97 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sankalpa%20Fernando&fontSize=42&fontAlignY=40&desc=Senior%20Executive%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=200&section=header&text=Sankalpa%20Fernando&fontSize=42&fontAlignY=40&desc=Senior%20Executive%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=60" />
 </div>
 
-<h1 align="center">Hi there, I'm Sankalpa Fernando 👋</h1>
+<h1 align="center">✨ Welcome to My GitHub Space ✨</h1>
 <h3 align="center">Senior Executive Operations | IT Undergraduate | Systems & Web Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate IT professional with a strong background in operations management and software development. I specialize in creating efficient systems and web applications that solve real-world problems.
+Driven IT professional with experience in **operations, finance, system design & full-stack development**.  
+I’m passionate about building systems that are **clean, scalable, and future-ready**, whether it's a desktop app, web platform, or real-world infrastructure.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Core Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🛠 Tech Stack (Modern)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux&theme=light" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics (Dynamic)
 
 <div align="center">
-  <!-- GitHub Stats with cache-busting -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true&v=1" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <!-- Alternative GitHub Stats for reliability -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalpa933&theme=radical" alt="GitHub Profile Summary" />
-  
-  <br/>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical&v=1" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical&v=1" alt="GitHub Streak" />
-  </div>
-  
-  <!-- GitHub Trophy -->
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&v=1" alt="GitHub Trophies" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=tokyonight" height="165" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalpa933&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sankalpa933&theme=tokyonight" />
+
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalpa-fernando/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sankalpa933)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalpa933@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94762503443)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sankalpa-fernando/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sankalpa933@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sankalpa933"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/94762503443"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🚀 Currently Working On
 
-- **Hotel Reservation System** - React, Node.js, MySQL
-- **Inventory Management System** - Java Swing with JDBC
-- **Network Infrastructure for Modern Café Chain**
+- **Hotel Reservation System** — React + Node.js + MySQL  
+- **Inventory Management System** — Java Swing + JDBC  
+- **Modern Café Chain Network Infrastructure** — secure & scalable  
 
 ---
 
-## 🎮 Guess the Number Game
+# 🎮 Play My Interactive Number Game  
+### *(Real game — not a spoiler — interactive UI!)*
 
-I'm thinking of a number between 1 and 10. Can you guess it?
+### 👉 Try your luck here:
 
-1. 🤔 Think of a number between 1 and 10
-2. Click the spoiler to see if you're right!
-3. Refresh the page to play again!
+<div align="center">
 
-<details>
-<summary>🎯 Click to reveal the answer!</summary>
+⚡ **Loading game…**  
+If nothing loads, open the full game here:  
+🔗 https://Sankalpa933.github.io/game/
 
-The number is **7**! 🎉
+<iframe src="https://Sankalpa933.github.io/game/" width="350" height="500" frameborder="0"></iframe>
 
-*Was that your guess? Refresh to try again!*
-</details>
-
-*Note: The number changes randomly each time you refresh the page!*
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" />
 </div>
