@@ -17,25 +17,25 @@
     <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux" />
   </div>
   
-  <!-- Visitor counter -->
-  <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sankalpa933.Sankalpa933" alt="Visitor Count" />
-  </p>
-  
   <!-- GitHub Stats -->
   <div align="center">
-    <a href="https://github.com/Sankalpa933">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" />
-    </a>
+    <!-- Stats Card -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sankalpa's GitHub Stats" />
+    
+    <!-- Top Languages -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" alt="Top Languages" />
+    
+    <!-- Streak Stats -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical" alt="GitHub Streak" />
+    
+    <!-- Trophy -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   </div>
   
-  <!-- GitHub Streak -->
-  <div align="center">
-    <a href="https://github.com/Sankalpa933">
-      <img src="https://streak-stats.demolab.com?user=Sankalpa933&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </a>
-  </div>
+  <!-- Visitor counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" alt="Profile Views" />
+  </p>
 </div>
 
 ---
