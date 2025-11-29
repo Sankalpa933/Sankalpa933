@@ -1,6 +1,15 @@
-# 👋 Hi, I'm Sankalpa Fernando
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sankalpa%20Fernando&fontSize=42&fontAlignY=40&desc=Senior%20Executive%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=60" alt="Header" />
+</div>
 
-### Senior Executive Operations | IT Undergraduate | Systems & Web Developer
+<h1 align="center">Hi there, I'm Sankalpa Fernando 👋</h1>
+<h3 align="center">Senior Executive Operations | IT Undergraduate | Systems & Web Developer</h3>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate IT professional with a strong background in operations management and software development. I specialize in creating efficient systems and web applications that solve real-world problems.
 
 ---
 
@@ -11,11 +20,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -23,11 +32,13 @@
 
 ## 📊 GitHub Stats
 
-![Sankalpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -45,30 +56,6 @@
 - **Hotel Reservation System** - React, Node.js, MySQL
 - **Inventory Management System** - Java Swing with JDBC
 - **Network Infrastructure for Modern Café Chain**
-
----
-
-## 🎓 Education
-
-- **BSc (Hons) in Information Technology** (Information System Engineering) - GPA: 2.78
-- **Diploma in IT & English** - Pearson
-- **Certificate in Digital Marketing** - SLIM
-
----
-
-## 💼 Professional Experience
-
-### Senior Executive Operations
-**Press Play Entertainment PVT LTD**  
-*2024 - Present*
-
-### Executive Finance & Purchasing
-**Press Play Entertainment PVT LTD**  
-*Feb 2024 – Feb 2025*
-
-### Accountant
-**Press Play Entertainment PVT LTD**  
-*May 2023 – Feb 2024*
 
 ---
 
