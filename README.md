@@ -14,7 +14,7 @@ I am an IT Undergraduate and Senior Executive Operations focused on transforming
 **operations management, finance systems, software development, network design, and UI/UX optimization.**
 
 I am passionate about engineering systems that are:
-* ✨ **Efficient** (Optimized for speed and resource use)
+* 🌟 **Efficient** (Optimized for speed and resource use)
 * ⚡ **Scalable** (Built for growth and high concurrency)
 * 🛡️ **Secure** (Prioritizing data integrity and resilience)
 * 🎯 **Purpose-Driven** (Clear impact and measurable results)
@@ -27,9 +27,8 @@ I am passionate about engineering systems that are:
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
 </p>
 
 ---
@@ -38,8 +37,9 @@ I am passionate about engineering systems that are:
 <div align="center">
 
   ![Sankalpa’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=midnight&hide_border=true&include_all_commits=true&count_private=true&line_height=25)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=6" height="165" />
-
+  
   <br><br>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalpa933&theme=default" />
@@ -70,6 +70,13 @@ I am passionate about engineering systems that are:
   <a href="https://wa.me/94762503443" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
+</div>
+
+---
+
+## 👁️ P R O F I L E &nbsp; V I E W S
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sankalpa933&style=flat-square&color=blue" alt="Profile Views Counter" />
 </div>
 
 ---
