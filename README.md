@@ -1,11 +1,12 @@
 <!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Sankalpa+Fernando;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Sankalpa+Fernando;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
   
-  <h3 align="center" style="margin-top: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Executive+Operations+%7C+IT+Undergraduate+%7C+Systems+%26+Web+Developer" alt="Subtitle" />
+  <h3 align="center" style="margin: 20px 0 10px 0; color: #00F7FF;">
+    Senior Executive Operations | IT Undergraduate | Systems & Web Developer
   </h3>
   
   <!-- Animated divider -->
@@ -18,12 +19,13 @@
   
   <!-- Visitor counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sankalpa933&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalpa933" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sankalpa933.Sankalpa933" alt="Visitor Count" />
   </p>
   
-  <!-- GitHub streak stats -->
+  <!-- GitHub Stats -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Sankalpa933&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&theme=radical&count_private=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical" />
   </p>
 </div>
 
@@ -103,18 +105,8 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/Sankalpa933">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sankalpa933&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
-  </a>
-  <a href="https://github.com/Sankalpa933">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalpa933&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Sankalpa933">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/Sankalpa933">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Sankalpa933&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <p align="center">
