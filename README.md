@@ -1,13 +1,13 @@
 <!-- ================= HEADER / ANIMATED BANNER ================= -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/372c58abb816621065e501a6a18fd508590fa5ea9631d9ec775939b0b4ec5a29/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d313030302677696474683d343530266c696e65733d44657369676e696e672b4669676d612b43726561746976656c6c792e2e2e3b436f64696e672b46726f6e74656e642b2532362b4261636b656e642b62656175746966756c6c792e2e2e3b4578706c6f72696e672b49542b2546302539462539322542423b4c6561726e696e672b45766572792b4461792b254532253943254138" alt="Cyber Neon Banner" width="100%">
+  <img src="https://media.tenor.com/tZIod6MQ2KEAAAAd/cyberpunk-neon.gif" alt="Cyber Neon Banner" width="100%">
 </p>
 
 <h1 align="center">⚡ Vishma Gimhan Sankalpa Fernando</h1>
 <h3 align="center">Senior Executive Operations | IT Undergraduate | Systems & Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
+  <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
 </p>
 
 ---
@@ -27,10 +27,8 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
   - Diploma in IT & English – Pearson  
   - Certificate in Digital Marketing – SLIM  
 
----
-
 <p align="center">
-  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
+  <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
 </p>
 
 ### 🔭 Currently Working On  
@@ -46,7 +44,9 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -54,7 +54,9 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalpa933&layout=compact&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
+</p>
 
 ### 🔮 Featured Projects
 
@@ -83,7 +85,7 @@ I’m Sankalpa Fernando, a passionate **IT undergraduate and operations professi
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/l3y7uVxjeZkAAAAC/neon-line.gif" width="100%">
+  <img src="https://media.tenor.com/NdDFtGZ6I4AAAAAC/neon-line.gif" width="100%">
 </p>
 
 <p align="center">✨ Crafted with passion | Inspired by the future ✨</p>
