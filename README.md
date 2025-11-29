@@ -9,11 +9,11 @@
   </h3>
   
   <!-- Animated divider -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   
-  <!-- Animated tech icons -->
+  <!-- Tech stack -->
   <div align="center" style="margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux,html,css,aws,azure,firebase,mongodb,postgres,redis,postman,androidstudio,atom,bash,bootstrap,c,cpp,codepen,discord,docker,eclipse,express,flutter,gcp,gitlab,gradle,heroku,idea,jquery,kubernetes,linkedin,md,materialui,netlify,nginx,nodejs,php,postman,powershell,pug,python,raspberrypi,react,redux,sass,stackoverflow,tailwind,threejs,ts,unity,vscode,webpack,wordpress,yarn" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,git,github,figma,linux" />
   </div>
   
   <!-- Visitor counter -->
