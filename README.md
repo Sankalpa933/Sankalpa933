@@ -72,38 +72,23 @@ I'm a passionate IT professional with a strong background in operations manageme
 
 ---
 
-## 🎮 Would You Rather? (Fun Game!)
+## 🎮 Guess the Number Game
 
-Here's a fun "Would You Rather" question for you! Refresh the page to see a new one! 🔄
+I'm thinking of a number between 1 and 10. Can you guess it?
+
+1. 🤔 Think of a number between 1 and 10
+2. Click the spoiler to see if you're right!
+3. Refresh the page to play again!
 
 <details>
-<summary>🤔 Click to reveal today's question!</summary>
+<summary>🎯 Click to reveal the answer!</summary>
 
-### Would you rather...
+The number is **7**! 🎉
 
-🔹 Have the ability to fly but only 1 foot off the ground, or be able to breathe underwater but only in swimming pools?
-
-🔹 Be able to talk to animals but they understand you're mocking them, or speak all human languages but only in a silly accent?
-
-🔹 Have unlimited battery life on all your devices, or have free WiFi wherever you go?
-
-🔹 Be a famous singer who can't sing, or a famous actor who always forgets their lines?
-
-🔹 Have a pause button for life, but it only works when you're sleeping, or a rewind button that only goes back 30 seconds?
-
-🔹 Be able to read minds but only when people are thinking about food, or be able to become invisible but only when no one is looking at you?
-
-🔹 Have a personal chef who only cooks food you dislike, or a personal trainer who only speaks in rhymes?
-
-🔹 Have to end every conversation with 'I'm a banana', or start every conversation with 'According to my calculations...'?
-
-🔹 Be able to control the weather but only when it's already raining, or control time but only on Tuesdays?
-
-🔹 Have a rewind button for your life, but it only works on Tuesdays, or a pause button that only works when you're in traffic?
-
+*Was that your guess? Refresh to try again!*
 </details>
 
-*Refresh the page to see a different question!*
+*Note: The number changes randomly each time you refresh the page!*
 
 ---
 
