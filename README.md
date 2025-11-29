@@ -5,8 +5,12 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Systems+%26+Web+Developer;IT+Undergraduate+%7C+Information+System+Engineering;Senior+Executive+Operations;Full+Stack+Enthusiast;Always+Learning+New+Things+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:00eaff&height=200&section=header&text=Sankalpa%20Fernando&fontSize=42&fontAlignY=40&desc=Senior%20Executive%20%7C%20IT%20Undergraduate&descSize=20&descAlignY=60" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Systems+%26+Web+Developer;Senior+Executive+Operations;IT+Undergraduate;Full+Stack+Enthusiast;Always+Building+Futuristic+Projects+🚀" />
+</p>
 
 ---
 
